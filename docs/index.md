@@ -51,6 +51,23 @@ Welche Ärzte kennen wir, wie trans-freundlich und kompetent empfunden?
 
 Zum Schluss, wenn alle Stellungnahmen & Befunde. 
 
+## Hormone und Blocker
+Welche Möglichkeiten? Anwendungsunterschiede, Aufbewahrung
+
+### Estrogel
+Rezept Hausarzt (erstes Ibk)
+Gel, "Seifenspender", Alkoholgeruch, 2-10 Minuten Einziehen. Innenschenkel oder Arme. Niemals Brüste!. Dosis auf einmal oder z.B. 2x am Tag.
+Menge: so wie verordnet (Beginn HRT meist 2 Hübe)
+Kühl lagern (nicht über 25°C) - Kühlschrank, Kühltasche. Sonst Wirkungslos.
+
+### Pamorelin (Blocker)
+Rezept Hausarzt (erstes Ibk)
+Blocker, 3-Monate Depot, Hausarzt, Intramuskulär. 
+
+### Testo
+
+### Zeitlicher Ablauf
+
 ## Operative Eingriffe
 
 (Kostenübernahme?)
