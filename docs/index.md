@@ -1,7 +1,7 @@
 > Work in progress. Diese Seite befindet sich noch im Aufbau. Bitte kommt später vorbei (oder macht nen pull-request).
 
 >*Hi, this page is, obviously, written in German. Please contact us, or open a pull request, if you would like to see it translated.*
-{% cSpell:language de %}
+<!-- cSpell:language de -->
 
 # Über diese Seite
 Diese Seite wurde von der Trans-Community in Vorarlberg erstellt und soll euch bei eurer Transition helfen, indem wir versuchen, häufig aufkommende Fragen zu klären.
