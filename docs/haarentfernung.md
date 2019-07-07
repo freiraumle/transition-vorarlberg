@@ -9,12 +9,83 @@
 Empfohlen nach NÄ/PSÄ wegen Kostenzuschuss.
 
 *TODO*
+
+## Laser/IPL
+Allgemein können diese Behandlungsmethoden nur die Haare entfernen, die sich gerade in der Wachstumsphase befinden. Daher sind immer mehrere Behandlungen notwendig - außerdem werden mitunter nicht immer alle Haare erwischt. Darum ist auch eine Pause zwischen den Behandlungen notwendig, um auf die nächste Wachstumsphase zu warten, in der dann wieder andere Haare am Wachsen sind.
+
+Wer schon einmal rasiert, epiliert oder gewachst hat, weiß vielleicht, dass es einige Wochen braucht, bis alles wieder komplett dicht nachgewachsen ist. 
+
+Es lassen sich ausschließlich dunkle Haare auf hellerer Haut mit diesen Methoden entfernen, da die Haare die Energie des Lichtimpulses aufnehmen und bis an die Wurzel transportieren müssen. Zu helle Haare nehmen nicht genug Energie auf und bei einer zu dunklen Haut nimmt die Haut zuviel Energie auf. Ob z.B. eine Laserepilation in Frage kommt, wird in einem Vorgespräch abgeklärt. 
+
+Während dem Behandlungszeitraum, also vor der ersten bis einige Wochen nach der allerletzten Behandlung, ist immer eine Sonnencreme mit hohem Lichtschutzfaktor (mindestens 30+, besser 50) zu verwenden, um Hautkrebs vorzubeugen. Regelmäßiges Nachcremen nicht vergessen - eine kleine Tube Sonnencreme in der Tasche ist da ganz praktisch. Weniger kritisch ist es vermutlich bei besonders niedriger UV-Belastung (Winter, stark bewölkt und wenn man sich gleichzeitig nicht lange im Freien aufhält). Muttermale dürfen mit Laser oder IPL nicht behandelt werden.
+
+Außerdem darf kein Makeup getragen werden, besonders vor/nach dem Lasern.
+
+Laser und IPL sind angeblich beide gleich effektiv in der Haarentfernung. Bei beiden Behandlungen muss eine besondere Schutzbrille getragen werden und die Augen müssen geschlossen bleiben. Beide Systeme sind meist aktiv gekühlt, wobei beim Laser (*nach meiner persönlichen Erfahrung - sm*) die Kühlung auch schon vor dem Impuls die zu behandelnde Stelle kühlen kann.
+
+Vor der Behandlung müssen die Haare eine bestimmte Länge haben - nicht zu frisch rasiert und auch nicht zu lang. Falls die Haare zu lange sein sollten, gibt es meist beim Hautarzt Einwegrasierer mit denen man zur Not die Länge ausgleichen kann (kratzt aber ziemlich und man muss es unter tadelndem Blick ertragen). Um die richtige Länge zu erreichen, sollte man sich ~2 Tage vorher rasieren und dann bis zur Behandlung nicht mehr.
+Das ist in der Transition leider auch ein Zeitraum, der ein wenig schlechte Laune verursachen kann, weil man z.B. mit fleckigem 2-Tage Bart herumlaufen muss. Nach der Behandlung sollte man sich erst am nächsten Tag wieder rasieren.
+
+Die Behandlung ist bei dichterem Haarwuchs schmerzhafter. Die Schmerzen lassen sich als Zwicken, Nadelstiche die eng beieinander liegen und mehr oder weniger sanft sind, Elektrische Schläge, ein stark gespanntes Gummiband das losgelassen wird, wie eine kurze Berührung mit einem sehr heißen Gegenstand etc. beschreiben - zusätzlich dazu führen sich alle getroffenen Haare an, als hätte man sie gerade gleichzeitig gezupft und es wird kurz und plötzlich warm bis heiß.
+
+Manche Hautärzte bieten Coolpacks an, mit denen die zu behandelnden Stellen vor und nach der Behandlung gekühlt werden können, was die Haut etwas weniger schmerzempfindlich macht.
+Betäubungscremes (z.B.: Emla) lassen sich angeblich z.B. für Behandlungen an der Brust etc. eine halbe Stunde vorher auftragen. Das Rezept dafür könnt ihr direkt beim Hautarzt bekommen.
+
+> Vor einer Anwendung derartiger Cremes im Gesicht wurde mir abgeraten. Bitte klärt das unbedingt vorher mit eurem Hautarzt.*\- sm*
+
+Der zeitliche Ablauf eines Impulses ist ungefähr so: 
+ * Impuls
+ * sehr kurz darauf erfolgt der Gummiband-artige-Schlag
+ * gefolgt von dem Stechen/Zupfen
+ * die Hitze kommt mit kurzer Verzögung plötzlich und klingt auch rasch wieder ab.
+ 
+ Dieser Ablauf findet in ~1 Sekunde statt. Während man den Impuls noch am Verarbeiten bzw. Wahrnehmen ist, wird das Gerät bereits zur nächsten Stelle geführt und angesetzt.
+ 
+ Während und nach der Behandlung kann es nach verbrannten Haaren riechen.
+
+Nach der Behandlung sind die Haut und vor allem die Haarstoppel sehr empfindlich, außerdem riecht man (zumindest aus der Nähe) stark nach Verbrannten Haaren, was einem für ein paar Tage ab und an immer wieder auffallen kann. Einen Schal im Winter zu tragen kann aufgrund der gequälten Haarwurzeln ein wenig unangenehm sein. Die Haut kann leicht gerötet sein und und manche Stoppel sehen leicht entzündet bzw. sieht die Haut aus, als hätte man sich nach sehr langer Zeit vor kurzem zum ersten mal rasiert (rote Punkte etc.). Die Haare können auch wie eingewachsen aussehen. Wichtig: auf keinen Fall kratzen, kein Peeling! Die Haare fallen nicht sofort aus.
+
+Nach ein paar Tagen gehen die Entzündungen zurück, ~2-3 Wochen nach der Behandlung sind die meisten der betroffenen Haare ausgefallen und nach ~3-4 Wochen ist der Haarwuchs wieder am dichtesten. Es wirkt aber meist nur so, als ob die Behandlung gar nichts gebracht hat.
+
+Die Veränderungen nach den ersten Behandlungen sind noch sehr zurückhaltend, werden aber mit jeder weiteren Behandlung deutlicher. Als Beispiel hier eine kleine Fotostrecke:
+
+#### Vor der 1. Behandlung
+![Laser-Haarentfernung, vor der 1. Behandlung][laser-00]
+
+#### Kurz nach der 1. Behandlung. "Laser-Kornkreise"
+<!-- 20180309 -->
+![Laser-Haarentfernung, kurz nach der 1. Behandlung][laser-01]
+
+#### Nach 5 Behandlungen
+<!-- 20180727 vor der 6. am 27.07.-->
+![Laser-Haarentfernung, nach 5 Behandlungen][laser-02]
+
+#### Nach 10 Behandlungen
+<!-- 20181215 -->
+![Laser-Haarentfernung, nach 10 Behandlungen][laser-03]
+
+#### Nach ~15 Behandlungen (und 7 Wochen HRT)
+<!-- 20190411 -->
+![Laser-Haarentfernung, nach ~15 Behandlungen][laser-04]
+
+*TODO: Unterschied, Schmerzen, Vorbereitung, Sonnencreme, nicht kratzen, wie eingewachsen, abwarten, nach ~2-3 Wochen weniger; coolpacks, betäubung/emla nur halt nicht im Gesicht; Geruch verbrannter Haare für ein paar Tage*
+
+### Laser
+Die vom Laser pro Impuls abgefahrene Fläche ist kleiner als die Fläche, die ein IPL-Gerät pro Impuls abgibt. Der Laser ist meist aktiv gekühlt, wodurch auch die Haut gekühlt wird, was ein wenig gegen die Schmerzen helfen kann.
+
+Die einzelnen Impulse werden schneller ausgelöst, in einem Takt von zirka 2 Sekunden.  
+
+### IPL
+
+
+
+
 ## Kostenzuschuss abklären
 Krankenkasse, VGKK Rigger
 
 *TODO*
 
-## Hautarzt
+## Nur beim Hautarzt
 Haarentfernung mittels Laser oder IPL bitte ausschließlich bei Hautärzten durchführen. Kostenzuschüsse werden nur dann gewährt, wenn die Behandlung bei einem Hautarzt erfolgt und die Diagnose *Hypertrichose* gestellt wird.
 
 Die Hautärzte haben meist auch die bessere Ausstattung, moderneren Geräte und wissen auch besser bescheid. 
@@ -54,12 +125,7 @@ Es ist halt wirklich dauerhaft und da muss man durch. :) Das sollte man sich auc
 > *Eine Behandlung dauert geschätzt so 5-15 Minuten, im Moment sind es nur 5 da gefühlt auch nicht mehr so viel gelasert werden muss. Etwas wenig mehr als die Hälfte der Kosten erhalte ich durch die VGKK erstattet.*
 > *\- sm*
 
-## Laser/IPL
-Allgemein können diese Behandlungsmethoden nur die Haare entfernen, die sich gerade in der Wachstumsphase befinden. Daher sind immer mehrere Behandlungen notwendig - außerdem werden mitunter nicht immer alle Haare erwischt. Darum ist auch eine Pause zwischen den Behandlungen notwendig, um auf die nächste Wachstumsphase zu warten, in der dann wieder andere Haare am Wachsen sind.
 
-Wer schon einmal rasiert, epiliert oder gewachst hat, weiß vielleicht, dass es einige Wochen braucht, bis alles wieder komplett dicht nachgewachsen ist. 
-
-*TODO: Unterschied, Schmerzen, Vorbereitung, Sonnencreme*
 
 ## Dauer & Kosten
 "6-10" eher "min 20" Behandlungen
@@ -70,6 +136,7 @@ Bart 5-10 Minuten, ?€
 *TODO: Erfahrungen einholen*
 
 ## Nicht-dauerhafte Haarentfernung
+*TODO: Einleitungstext*
 * Rasieren (nass oder elektrisch)
   * Haare wachsen **nicht** schneller nach, wenn man sie rasiert. Sie sind nur dicker weil sie näher an der Wurzel abgeschnitten werden
   * Nass rasieren ist glatter
@@ -90,3 +157,14 @@ Bart 5-10 Minuten, ?€
   * > Braun Silk Epil auf der höchsten Stufe. Die ganzen Aufsätze braucht's nicht, greift also ruhig zu einem günstigerem Modell mit weniger Zubehör. Der Rasieraufsatz (nicht wasserfest!) ist manchmal praktisch, aber ersetzt auf Dauer keinen Rasierer. Ich persönlich verwende einen Braun Silk Epil 9, bin mir aber nicht sicher ob die anderen Modelle nicht auch denselben Epilationskopf und dieselbe, effektive Breite haben (bloß weil der Epilierer breiter ist, heißt das ja noch lange nicht, dass der eigentliche Aufsatz auch so breit epiliert). *\- sm*
 * Wachsen
   * *TODO*
+* Sugaring
+  * Nicht fürs Gesicht
+  * Vergleichbar zum Wachsen, jedoch etwas weniger Schmerzhaft da weniger Haare auf einmal ausgerissen werden. 
+  * Wirkt gleichzeitig wie ein Peeling, wodurch man eine super saubere Haut erhält
+  * Sugaring-Paste lässt sich selbst herstellen
+
+[laser-00]: images/laser-00.jpg
+[laser-01]: images/laser-01.jpg
+[laser-02]: images/laser-02.jpg
+[laser-03]: images/laser-03.jpg
+[laser-04]: images/laser-04.jpg
