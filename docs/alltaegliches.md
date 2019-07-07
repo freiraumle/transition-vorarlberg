@@ -25,6 +25,11 @@ Hier sind einige unsortierte Ideen, wie man zum neuen Namen finden kann. Probier
 * Zusätzlicher zweiter Name. Hier sind vielleicht auch noch ungewöhnlichere Namen möglich.
 
 \*Außer dass der Name in AT zum Geschlechtpassen muss *TODO: ist das immer noch so?*
+
+### Namenslisten
+
+*TODO: Links zu diversen Namenslisten*
+
 ## Weiblich präsentierend
 ### Kleidung und Mode
 Begriffe, Ideen, aktuelle no-gos bzw. was passt eher zu mir?; Bezugsmöglichkeiten; Gemeinsames Shopping; Was wie kaschieren, Kleidungsauswahl für einen weiblicheren Auftritt (sofern gewünscht);
@@ -38,5 +43,7 @@ Wer will; Woher, wie lernen; Kosten; Nicht schminken wenn am Lasern;
 BH stopfen, Silikoneinlagen, verschiedene Epithesen, selbsthaftend/-klebend oder Tasche; Reinigung; Abfallende Brüste im Sommer;
 
 ## Männlich präsentierend
+### Kleidung und Mode
+*TODO*
 ### Binder
 Welche Möglichkeiten, worauf achten
