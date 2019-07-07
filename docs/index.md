@@ -11,6 +11,9 @@ Die hier zu findenden Informationen sind stammen aus unserer Community und bilde
 
 Wir versuchen jedoch, wo wir können, auf die jeweiligen Quellen zu verweisen.
 
+# Inhalt
+* [Tipps, Infos und Alltägliches](alltaegliches.md)
+
 # Psychotherapie
 Wir haben in Vorarlberg zwei Psychotherapeutinnen, die über Transgender-Kompetenzen verfügen:
 
@@ -97,6 +100,7 @@ Blocker, 3-Monate Depot, Hausarzt, Intramuskulär.
 ### Testo
 
 ### Zeitlicher Ablauf
+Was nach welcher Zeit, welche Ergebnisse sind zu erwarten (und was nicht).
 
 # Operative Eingriffe
 
@@ -148,3 +152,19 @@ Unterschied, Schmerzen, Vorbereitung, Sonnencreme
 Bart 5-10 Minuten, ?€
 
 # Logopädie (Sprachtraining)
+
+# Tipps, Infos und Alltägliches
+Sachen die wir eventuell auch erst lernen mussten
+## Weiblich präsentierend
+### Kleidung und Mode
+Begriffe, Ideen, aktuelle no-gos bzw. was passt eher zu mir?; Bezugsmöglichkeiten; Gemeinsames Shopping; Was wie kaschieren, Kleidungsauswahl für einen weiblicheren Auftritt (sofern gewünscht);
+
+### Makeup
+Wer will; Woher, wie lernen; Kosten; Nicht schminken wenn am Lasern;
+
+### Brusteinlagen/Epithesen
+BH stopfen, Silikoneinlagen, verschiedene Epithesen, selbsthaftend/-klebend oder Tasche; Reinigung; Abfallende Brüste im Sommer;
+
+## Männlich präsentierend
+### Binder
+Welche Möglichkeiten, worauf achten
