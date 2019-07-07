@@ -12,7 +12,7 @@ Die hier zu findenden Informationen sind stammen aus unserer Community und bilde
 Wir versuchen jedoch, wo wir können, auf die jeweiligen Quellen zu verweisen.
 
 # Inhalt
-* [Tipps, Infos und Alltägliches (Kleidung, Makeup, Binder, Brusteinlagen/Epithesen etc.)](alltaegliches.md)
+* [Tipps, Infos und Alltägliches](alltaegliches.md) -  Namensfindung, Kleidung, Makeup, Binder, Brusteinlagen/Epithesen, trans-freundliche Friseure etc.
 * [Psychotherapie](psychotherapie.md)
 * [Grundlagen und allgemeiner Ablauf der Transition](grundlagen.md)
 * [Namens- und Personenstandsänderung](namensaenderung.md)
@@ -21,3 +21,7 @@ Wir versuchen jedoch, wo wir können, auf die jeweiligen Quellen zu verweisen.
 * [Dauerhafte Haarentfernung (Laser, Bart, …)](haarentfernung.md)
 * [Logopädie (Sprachtraining)](logopaedie.md)
 
+TODO:
+* Tipps für die Namensfindung, Ausprobieren
+* Liste an trans-freundlichen Friseuren etc.
+* SHG, Freiräumle, SHGs im Umkreis (CH, LI, …)
