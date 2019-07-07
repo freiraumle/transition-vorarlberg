@@ -13,7 +13,7 @@ Empfohlen nach NÄ/PSÄ wegen Kostenzuschuss.
 ## Laser/IPL
 Allgemein können diese Behandlungsmethoden nur die Haare entfernen, die sich gerade in der Wachstumsphase befinden. Daher sind immer mehrere Behandlungen notwendig - außerdem werden mitunter nicht immer alle Haare erwischt. Darum ist auch eine Pause zwischen den Behandlungen notwendig, um auf die nächste Wachstumsphase zu warten, in der dann wieder andere Haare am Wachsen sind.
 
-Wer schon einmal rasiert, epiliert oder gewachst hat, weiß vielleicht, dass es einige Wochen braucht, bis alles wieder komplett dicht nachgewachsen ist. 
+Wer schon einmal rasiert, epiliert oder gewachst hat, weiß vielleicht, dass es einige Wochen braucht, bis alles wieder komplett dicht nachgewachsen ist - das liegt an den versetzten Wachstumsphasen. Wir wollen hier jetzt aber weiter übers Lasern bzw. IPL reden, wo idealerweise nichts mehr nachwachsen soll.
 
 Es lassen sich ausschließlich dunkle Haare auf hellerer Haut mit diesen Methoden entfernen, da die Haare die Energie des Lichtimpulses aufnehmen und bis an die Wurzel transportieren müssen. Zu helle Haare nehmen nicht genug Energie auf und bei einer zu dunklen Haut nimmt die Haut zuviel Energie auf. Ob z.B. eine Laserepilation in Frage kommt, wird in einem Vorgespräch abgeklärt. 
 
