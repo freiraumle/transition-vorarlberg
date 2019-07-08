@@ -30,6 +30,9 @@ Hier sind einige unsortierte Ideen, wie man zum neuen Namen finden kann. Probier
 
 *TODO: Links zu diversen Namenslisten*
 
+## *TODO sonstiges*
+*TODO: Sachen wie Finasterid etc.*
+
 ## Weiblich präsentierend
 ### Kleidung und Mode
 Begriffe, Ideen, aktuelle no-gos bzw. was passt eher zu mir?; Bezugsmöglichkeiten; Gemeinsames Shopping; Was wie kaschieren, Kleidungsauswahl für einen weiblicheren Auftritt (sofern gewünscht);
