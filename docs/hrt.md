@@ -49,9 +49,9 @@ Kühl lagern (nicht über 25°C) - Kühlschrank, Kühltasche. Sonst Wirkungslos.
 ### Zeitlicher Ablauf
 Was nach welcher Zeit, welche Ergebnisse sind zu erwarten (und was nicht).
 
-> Aus Winkler-Crepaz, K., Müller, A., Böttcher, B. et al. Gynäkologische Endokrinologie (2017) 15: 39. https://doi.org/10.1007/s10304-016-0116-9
+> Aus Winkler-Crepaz, K., Müller, A., Böttcher, B. et al. Gynäkologische Endokrinologie (2017) 15: 39. [https://doi.org/10.1007/s10304-016-0116-9](https://doi.org/10.1007/s10304-016-0116-9)
 
-> Auswirkungen und zeitlicher Verlauf der feminisierenden Hormontherapie. (Nach Hembree et al. [1][Hembree], Coleman et al. [3][Coleman], Mueller et al. [5][Mueller])
+> Auswirkungen und zeitlicher Verlauf der feminisierenden Hormontherapie. (Nach Hembree et al. [\[1\]][Hembree], Coleman et al. [\[3\]][Coleman], Mueller et al. [\[5\]][Mueller])
 >
 > | Wirkung | Beginn | Maximaler Effekt |
 > |---------|--------|------------------|
@@ -68,7 +68,7 @@ Was nach welcher Zeit, welche Ergebnisse sind zu erwarten (und was nicht).
 > | Männliche Glatzenbildung | Kein Nachwachsen der Haare | Haarverlust endet nach 1–3 Monaten  |
 
 
-> Auswirkungen und zeitlicher Verlauf der virilisierenden  Hormontherapie. (Nach Hembree et al. [1][Hembree], Coleman et al. [3][Coleman], Mueller et al. [5][Mueller])
+> Auswirkungen und zeitlicher Verlauf der virilisierenden  Hormontherapie. (Nach Hembree et al. [\[1\]][Hembree], Coleman et al. [\[3\]][Coleman], Mueller et al. [\[5\]][Mueller])
 >
 > | Wirkung | Beginn | Maximaler Effekt |
 > |---------|--------|------------------|

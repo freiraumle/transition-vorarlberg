@@ -18,7 +18,7 @@ Wir versuchen jedoch, wo wir können, auf die jeweiligen Quellen zu verweisen.
 * [Namens- und Personenstandsänderung](namensaenderung.md)
 * [Hormonersatztherapie (HET) / Hormone Replacement Therapy (HRT)](hrt.md)
 * [Operative Eingriffe (GaOp, Mastek)](ops.md)
-* [Dauerhafte Haarentfernung (Laser, Bart, …)](haarentfernung.md)
+* [Haarentfernung](haarentfernung.md) -  Dauerhaft mit Laser/IPL, Bartschatten, Rasieren, Epilieren, …
 * [Logopädie (Sprachtraining)](logopaedie.md)
 
 TODO:
