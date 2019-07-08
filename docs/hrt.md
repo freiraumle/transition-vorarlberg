@@ -52,8 +52,9 @@ Was nach welcher Zeit, welche Ergebnisse sind zu erwarten (und was nicht).
 > Aus Winkler-Crepaz, K., Müller, A., Böttcher, B. et al. Gynäkologische Endokrinologie (2017) 15: 39. https://doi.org/10.1007/s10304-016-0116-9
 
 > Auswirkungen und zeitlicher Verlauf der feminisierenden Hormontherapie. (Nach Hembree et al. [1][Hembree], Coleman et al. [3][Coleman], Mueller et al. [5][Mueller])
+>
 > | Wirkung | Beginn | Maximaler Effekt |
-> | ------- | ------ | ---------------- |
+> |---------|--------|------------------|
 > | Fettverteilung des Körpers | 3–6 Monate | 2–3 Jahre |
 > | Abnahme der Muskelmasse/-stärke | 3–6 Monate | 1–2 Jahre |
 > | Sanftere Haut/Abnahme des Fetts | 3–6 Monate | *Unbekannt* |
@@ -68,8 +69,9 @@ Was nach welcher Zeit, welche Ergebnisse sind zu erwarten (und was nicht).
 
 
 > Auswirkungen und zeitlicher Verlauf der virilisierenden  Hormontherapie. (Nach Hembree et al. [1][Hembree], Coleman et al. [3][Coleman], Mueller et al. [5][Mueller])
+>
 > | Wirkung | Beginn | Maximaler Effekt |
-> | ------- | ------ | ---------------- |
+> |---------|--------|------------------|
 > | Fette Haut/Akne | 1–6 Monate | 1–2 Jahre |
 > | Gesichts-/Köperbehaarung | 3–12 Monate | 3–5 Jahre |
 > | Haarausfall am Kopf | 6–12 Monate |  |
