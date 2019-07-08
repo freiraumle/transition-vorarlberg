@@ -41,11 +41,14 @@ Parallel dazu würen wir uns freuen, wenn ihr Kontakt mit der trans-Community au
 1. [Psychotherapie](psychotherapie.md)
     * Ermöglicht: Stellungnahmen, besser leben
 1. [Namens- und Personenstandsänderung](namensaenderung.md)
-    * Stellungnahme, dass sich am zugehörigen Geschlecht voraussichtlich nichts mehr ändern wird
+    * Stellungnahme, dass sich am zugehörigen Geschlecht voraussichtlich nichts mehr ändern wird etc.
     * Ergebnis: neuer Vorname und korrigiertes Geschlecht im Geburtenbuch, neue Geburtsurkunde, Staatsbürgerschaftsnachweis, Ausweise, …
     * Ermöglicht: Hormontherapie, Kostenzuschüsse z.B. zum Lasern, überall offiziell den Namen ändern lassen
 1. [Hormonersatztherapie/Hormone Replacement Therapy (HET/HRT)](hrt.md)
-   * Zuerst: Stellungnahme für die Hormontherapie
+   * Zuerst: Stellungnahme für die Hormontherapie. Muss beinhalten:
+     * Diagnose nach DSM bzw. ICD 
+     * Feststellung, dass Geschlechtsdysphorie/Transsexualität/Transgender ohne Behandlung mit großer Wahrscheinlichkeit als dauerhaft und irreversibel einzustufen ist
+     * Mitteilung, dass sich das Äußere Erscheinungsbild der innerpsychisch empfundenen Geschlechtsidentität angenähert hat
    * Psychiatrische Kontrolluntersuchung 
      * Gespräch
      * Psychologische Testung?
