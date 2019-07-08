@@ -39,6 +39,9 @@ Begriffe, Ideen, aktuelle no-gos bzw. was passt eher zu mir?; Bezugsmöglichkeit
 ### Makeup
 Wer will; Woher, wie lernen; Kosten; Nicht schminken wenn am Lasern;
 
+### Nagellack
+Welche Marken und Preise (z.B. Manhattan), was sind base coat, top coat, gel etc., wie richtig anwenden, tricks, wie richtig entfernen (acetonfrei!), welche Spuren bleiben zurück?
+
 ### Brusteinlagen/Epithesen
 BH stopfen, Silikoneinlagen, verschiedene Epithesen, selbsthaftend/-klebend oder Tasche; Reinigung; Abfallende Brüste im Sommer;
 

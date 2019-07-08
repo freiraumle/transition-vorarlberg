@@ -41,10 +41,14 @@ Parallel dazu würen wir uns freuen, wenn ihr Kontakt mit der trans-Community au
 1. [Psychotherapie](psychotherapie.md)
     * Ermöglicht: Stellungnahmen, besser leben
 1. [Namens- und Personenstandsänderung](namensaenderung.md)
-    * Stellungnahme, dass sich am zugehörigen Geschlecht voraussichtlich nichts mehr ändern wird
-    * Ermöglicht: Hormontherapie, Kostenzuschüsse z.B. zum Lasern
+    * Stellungnahme, dass sich am zugehörigen Geschlecht voraussichtlich nichts mehr ändern wird etc.
+    * Ergebnis: neuer Vorname und korrigiertes Geschlecht im Geburtenbuch, neue Geburtsurkunde, Staatsbürgerschaftsnachweis, Ausweise, …
+    * Ermöglicht: Hormontherapie, Kostenzuschüsse z.B. zum Lasern, überall offiziell den Namen ändern lassen
 1. [Hormonersatztherapie/Hormone Replacement Therapy (HET/HRT)](hrt.md)
-   * Zuerst: Stellungnahme für die Hormontherapie
+   * Zuerst: Stellungnahme für die Hormontherapie. Muss beinhalten:
+     * Diagnose nach DSM bzw. ICD 
+     * Feststellung, dass Geschlechtsdysphorie/Transsexualität/Transgender ohne Behandlung mit großer Wahrscheinlichkeit als dauerhaft und irreversibel einzustufen ist
+     * Mitteilung, dass sich das Äußere Erscheinungsbild der innerpsychisch empfundenen Geschlechtsidentität angenähert hat
    * Psychiatrische Kontrolluntersuchung 
      * Gespräch
      * Psychologische Testung?
@@ -53,12 +57,15 @@ Parallel dazu würen wir uns freuen, wenn ihr Kontakt mit der trans-Community au
    * Transfrauen: Urologische Untersuchung
    * Transmänner: Gynäkologische Untersuchung
    * Zuletzt: Gynäkologische Endokrinologie in Innsbruck zur Betreuung/Freigabe der Hormontherapie   
+   * Ergebnis: Rezepte für die Hormone und Blocker, regelmäßige Kontrolltermine in Innsbruck
    * Ermöglicht: Geschlechtsangleichende Operation (GaOp), Brustaufbau etc. *frühstens ein Jahr nach Beginn der Hormontherapie*
 1. [Operationen](ops.md)
    * *TODO: Vorbedingungen Mastek?*
    * Stellungnahme für die OP
    * Psychiatrische Kontrolluntersuchung
    * Gespräche mit Chirurg, OP
+   * Ergebnis: Ja
+   * Ermöglicht: z.B. sorgenfrei baden gehen?
 
 ### Geschlechtseintrag ändern (Personenstandsänderung)
 > Die Grundlage für die Personsenstandsänderung ist mit der [Erkenntnis des Verwaltungsgerichtshofes vom 27.02.2009](http://www.ris.bka.gv.at/JudikaturEntscheidung.wxe?Abfrage=Vwgh&Dokumentnummer=JWR_2008170054_20090227X01) gelegt worden. 
