@@ -3,8 +3,11 @@
 >*Hi, this page is, obviously, written in German. Please contact us, or open a pull request, if you would like to see it translated.*
 <!-- cSpell:language de -->
 
-# Dauerhafte Haarentfernung (Lasern, Bart, …)
+# Dauerhafte Haarentfernung (Lasern, IPL, …)
 [Zurück zur Hauptseite](index.md)
+
+Nicht-dauerhafte Methoden sind weiter unten zu finden. 
+*TODO: split into dauerhaft/nicht-dauerhaft*
 
 Empfohlen nach NÄ/PSÄ wegen Kostenzuschuss.
 
@@ -80,12 +83,12 @@ Die einzelnen Impulse werden schneller ausgelöst, in einem Takt von zirka 2 Sek
 
 
 
-## Kostenzuschuss abklären
+### Kostenzuschuss abklären
 Krankenkasse, VGKK Rigger
 
 *TODO*
 
-## Nur beim Hautarzt
+### Nur beim Hautarzt
 Haarentfernung mittels Laser oder IPL bitte ausschließlich bei Hautärzten durchführen. Kostenzuschüsse werden nur dann gewährt, wenn die Behandlung bei einem Hautarzt erfolgt und die Diagnose *Hypertrichose* gestellt wird.
 
 Die Hautärzte haben meist auch die bessere Ausstattung, moderneren Geräte und wissen auch besser bescheid. 
@@ -126,18 +129,26 @@ Es ist halt wirklich dauerhaft und da muss man durch. :) Das sollte man sich auc
 > *\- sm*
 
 
-
-## Dauer & Kosten
+### Dauer & Kosten
 "6-10" eher "min 20" Behandlungen
 
 Bart 5-10 Minuten, ?€
 
-## Geräte für Zuhause
+### Geräte für Zuhause
 *TODO: Erfahrungen einholen*
 
-## Nicht-dauerhafte Haarentfernung
+## Elektro(nadel)epilation
+Wenn Lasern oder IPL nicht in Frage kommen, oder um die letzten hartnäckigen Haare zu entfernen, bleibt vielleicht noch die Nadelepilation. Diese wird in Vorarlberg leider nicht angeboten.
+
+Diese Art der Haarentfernung ist deutlich langsamer, da jedes Haar einzeln behandelt werden muss - dafür bekommt man so auch wirklich noch jedes letzte Haar entfernt.
+
+*TODO: Erfahrungen, Ärzte, Kosten, gibt es überhaupt hierfür einen Kostenzuschuss? Schmerzen?*
+
+
+
+# Nicht-dauerhafte Haarentfernung
 *TODO: Einleitungstext*
-* Rasieren (nass oder elektrisch)
+## Rasieren (nass oder elektrisch)
   * Haare wachsen **nicht** schneller nach, wenn man sie rasiert. Sie sind nur dicker weil sie näher an der Wurzel abgeschnitten werden
   * Nass rasieren ist glatter
     * Am Besten nach der Dusche oder Gesichtswäsche, wenn die Poren offen sind. 
@@ -149,15 +160,21 @@ Bart 5-10 Minuten, ?€
     * > Ich persönlich schwöre auf den stinknormalen Gilette Mach 3 und das günstigste Gilette Rasiergel. Die Klingen sind in den größeren Packungen nicht ganz so teuer und ich komme mit einer Klinge ungefähr eine Woche aus - wobei ich täglich Gesicht, Brust, Bauch und Intimbereich rasiere, so alle 2 Tage die Arme und 1x die Woche komplett, von den Zehenspitzen aufwärts rasiere. Zusätzlich epiliere ich 1x in der Woche, vor dem Rasieren, die Beine. *\- sm*
   * Fürs elektrische Rasieren, besonders am Rücken, eignet sich ein Philips Bodygroom Series 5000 mit Aufsatz für die Rückenhaarentfernung. Dieser Rasierer soll sich auch gut für empfindlichere Bereiche eignen.
   * Vorsicht bei der elektrischen Rasur an empfindlichen, dünnen Hautstellen (Achseln, Intimbereich, …). Die meisten Rasierer sind dort äußerst ungeeignet, aber aus der Erfahrung lernt man meist sehr rasch ;)
-* Epilieren 
+
+## Epilieren 
   * Bietet ein paar Tage Ruhe und die Haare wachsen dünner nach.
   * Die ersten paar mal sind schmerzhafter, da es mehr Haare gibt und diese stärker verwurzelt sind, besonders bei denjenigen von uns, die mit Testosteron aufwachsen/aufgewachsen sind. Es wachsen anschließend nur die Haare nach, die gerade in der Wachstumsphase sind. Daher ist es wesentlich angenehmer, z.B. wöchentlich zu epilieren, anstatt einmal im Monat.
   * Für die besten Ergebnisse nach dem Epilieren auch noch nass rasieren.
   * Es gibt wiederaufladbare, kabellose Epilierer, die man unter der Dusche verwenden kann. **Niemals kabelgebundene Epilierer, oder Epilierer die an einem Kabel angesteckt sind, unter die Dusche nehmen. Das sind elektrische Geräte!**
-  * > Braun Silk Epil auf der höchsten Stufe. Die ganzen Aufsätze braucht's nicht, greift also ruhig zu einem günstigerem Modell mit weniger Zubehör. Der Rasieraufsatz (nicht wasserfest!) ist manchmal praktisch, aber ersetzt auf Dauer keinen Rasierer. Ich persönlich verwende einen Braun Silk Epil 9, bin mir aber nicht sicher ob die anderen Modelle nicht auch denselben Epilationskopf und dieselbe, effektive Breite haben (bloß weil der Epilierer breiter ist, heißt das ja noch lange nicht, dass der eigentliche Aufsatz auch so breit epiliert). *\- sm*
-* Wachsen
+  * > Braun Silk Epil auf der höchsten Stufe. Die ganzen Aufsätze braucht's nicht, greift also ruhig zu einem günstigerem Modell mit weniger Zubehör. Der Rasieraufsatz (nicht wasserfest!) ist manchmal praktisch, aber ersetzt auf Dauer keinen Rasierer. Ich persönlich verwende einen Braun Silk Epil 9, bin mir aber nicht sicher ob die anderen Modelle nicht auch denselben Epilationskopf und dieselbe, effektive Breite haben (bloß weil der Epilierer breiter ist, heißt das ja noch lange nicht, dass der eigentliche Aufsatz auch so breit epiliert). 
+    > Bei meiner starken Behaarung habe ich mich an einem Tag Stückweise durch die Unterschenkel gekämpft. Für die Oberschenken habe ich mich allerdings von Behandlung zu Behandlung Stückweise vorwärts kämpfen müssen. Immer ein klein wenig mehr epilieren als das letzte mal. Sobald das aber erledigt war, war die wöchentliche Epilation deutlich angenehmer und einfacher. Ich habe das Gefühl, dass trocken epilieren etwas gründlicher ist, während das Epilieren unter der Dusche deutlich angenehmer sein kann.
+    > *\- sm*
+
+## Wachsen
   * *TODO*
-* Sugaring
+
+*
+## Sugaring
   * Nicht fürs Gesicht
   * Vergleichbar zum Wachsen, jedoch etwas weniger Schmerzhaft da weniger Haare auf einmal ausgerissen werden. 
   * Wirkt gleichzeitig wie ein Peeling, wodurch man eine super saubere Haut erhält
