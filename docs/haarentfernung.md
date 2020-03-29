@@ -73,6 +73,12 @@ Die Veränderungen nach den ersten Behandlungen sind noch sehr zurückhaltend, w
 
 *TODO: Unterschied, Schmerzen, Vorbereitung, Sonnencreme, nicht kratzen, wie eingewachsen, abwarten, nach ~2-3 Wochen weniger; coolpacks, betäubung/emla nur halt nicht im Gesicht; Geruch verbrannter Haare für ein paar Tage*
 
+[laser-00]: images/laser-00.jpg
+[laser-01]: images/laser-01.jpg
+[laser-02]: images/laser-02.jpg
+[laser-03]: images/laser-03.jpg
+[laser-04]: images/laser-04.jpg
+
 ### Laser
 Die vom Laser pro Impuls abgefahrene Fläche ist kleiner als die Fläche, die ein IPL-Gerät pro Impuls abgibt. Der Laser ist meist aktiv gekühlt, wodurch auch die Haut gekühlt wird, was ein wenig gegen die Schmerzen helfen kann.
 
@@ -171,17 +177,11 @@ Diese Art der Haarentfernung ist deutlich langsamer, da jedes Haar einzeln behan
     > *\- sm*
 
 ## Wachsen
-  * *TODO*
+  *TODO*
 
-*
 ## Sugaring
   * Nicht fürs Gesicht
   * Vergleichbar zum Wachsen, jedoch etwas weniger Schmerzhaft da weniger Haare auf einmal ausgerissen werden. 
   * Wirkt gleichzeitig wie ein Peeling, wodurch man eine super saubere Haut erhält
   * Sugaring-Paste lässt sich selbst herstellen
 
-[laser-00]: images/laser-00.jpg
-[laser-01]: images/laser-01.jpg
-[laser-02]: images/laser-02.jpg
-[laser-03]: images/laser-03.jpg
-[laser-04]: images/laser-04.jpg
