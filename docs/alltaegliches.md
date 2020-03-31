@@ -22,6 +22,7 @@ Namensfindung, Kleidung, Makeup, Binder, Brusteinlagen/Epithesen, trans-freundli
 * HRT - hormone replacement therapy. Hormon(ersatz)therapie. Hierbei werden Hormone des Wunschgeschlechtes dem Körper zugeführt, um eine körperliche Veränderung zu erzielen.
 * trans - Personen, deren Geschlecht nicht mit dem bei der Geburt zugewiesenem Geschlecht übereinstimmt. z.B. Transfrauen (sind Frauen, amab), Transmänner (sind Männer, afab).
 * cis - Personen, deren Geschlecht mit dem bei der Geburt zugewiesenem Geschlecht übereinstimmt. Das betrifft den Großteil der Bevölkerung.
+* Binder - Kleidungsstück welches für eine flachere Brust sorgt, z.B. für Transmänner
 
 ## Namensfindung
 Solange ihr noch keine Namensänderung gemacht habt, könnt ihr Namen innerhalb vom Freundeskreis, der Community usw. einfach ausprobieren. Lasst euch bei eurem Wunschnamen aufrufen, z.B. beim Bestellen von Essen im Geschäft. In der Anonymität des Internets könnt ihr auch euren Namen austesten, aber persönlich mit eurem Namen angesprochen zu werden hat eine ganz andere Qualität - bleibt also nicht nur online. Ihr könnt es überall ausprobieren, wo der Name nicht mit rechtlichen Angaben zu tun hat. Unterschreibt also bitte noch nicht unbedingt den nächsten Kaufvertrag mit eurem Wunschnamen.
@@ -128,4 +129,8 @@ Nachteile von Epithesen:
 ### Kleidung und Mode
 *TODO*
 ### Binder
-Welche Möglichkeiten, worauf achten
+*TODO: Welche Möglichkeiten, worauf achten*
+
+Empfehlungen aus der Community:
+* Gc2b - online beziehbar
+* Underworks - auch für übergewichtige Personen, z.B. über Amazon beziehbar
